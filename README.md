@@ -12,7 +12,9 @@ Maybe you will not find what you want, but it takes the writer a lot of time to 
 
 If you have any suggestions, you can email me at _**zz1taiyyl@gmail.com**_. 
 
-*And make sure to remember that you should download 'Yunji' APP (云记)* to open these '. Jnotes' files in this APP, so that you can view them at any time. (I'll try to transform these Jnotes files into PDF or the other versions)
+*And make sure to remember that you should download 'Yunji' APP (云记) to open these '. Jnotes' files in this APP, so that you can view them at any time.* (I'll try to transform these Jnotes files into PDF or the other versions)
+
+You can switch the branch to search for what you need.
 
 ## 2. Chinese Version
 
@@ -25,6 +27,8 @@ If you have any suggestions, you can email me at _**zz1taiyyl@gmail.com**_.
 我也会上传部分通用资源，比如LATEX模板、MATLAB代码、Python代码之类的...对于一些需要编程的课，我会将我的作业代码上传一部分，但我还是建议各位自行学习编程并完成这部分内容（至少你要看懂代码在干什么） ————而且CSDN和Github上有一大堆比我写的好的
 
 注意：如果你下载了Jnotes文件，请使用云记打开这类文件，或者将文件转化为PDF之类的。
+
+请点击branch进行内容切换，自行寻找自己需要的内容。
 
 如果你有任何疑问，请随时Email_**zz1taiyyl@gmail.com**_与我讨论。同时我也欢迎各位在这个项目中公开一些自己的学习资料，为后来人栽树乘凉。
 
