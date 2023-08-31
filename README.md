@@ -28,7 +28,7 @@ You can switch the branch to search for what you need.
 
 注意：如果你下载了Jnotes文件，请使用云记打开这类文件，或者将文件转化为PDF之类的。
 
-请点击branch进行内容切换，自行寻找自己需要的内容。
+请点击branch进行内容切换，自行寻找自己需要的内容。我会在学完一个课程后，实时更新内容，直到毕业。
 
 如果你有任何疑问，请随时Email_**zz1taiyyl@gmail.com**_与我讨论。同时我也欢迎各位在这个项目中公开一些自己的学习资料，为后来人栽树乘凉。
 
