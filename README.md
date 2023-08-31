@@ -12,4 +12,4 @@ Maybe you will not find what you want, but it takes the writer a lot of time to 
 
 If you have any suggestions, you can email me at _**zz1taiyyl@gmail.com**_. 
 
-And make sure to remember that you should download 'Yunji' APP (云记) to open these '. Jnotes' files in this APP, so that you can view them at any time. (I'll try to transform these Jnotes files into PDF or the other versions)
+*And make sure to remember that you should download 'Yunji' APP (云记)* to open these '. Jnotes' files in this APP, so that you can view them at any time. (I'll try to transform these Jnotes files into PDF or the other versions)
