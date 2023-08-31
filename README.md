@@ -32,4 +32,4 @@ You can switch the branch to search for what you need.
 
 如果你有任何疑问，请随时Email_**zz1taiyyl@gmail.com**_与我讨论。同时我也欢迎各位在这个项目中公开一些自己的学习资料，为后来人栽树乘凉。
 
-By the way, 物理专业请慎重考虑，毕竟物理🐕都不学。
+By the way, 物理专业请慎重考虑，毕竟物理🐶都不学。
