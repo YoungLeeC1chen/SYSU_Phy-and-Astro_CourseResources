@@ -1,1 +1,1 @@
-# SYSU_Phy-and-Astro_CourseResource
+# SYSU_Phy-and-Astro_CourseResources
